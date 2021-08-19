@@ -1,14 +1,20 @@
 [
   {
+    "id": 3,
+    "title": "Jacobs Presidential Fellowship",
+    "link": "https://oge.mit.edu/finances/fellowships/presidential/",
+    "description": "Awarded by MIT EECS department."
+  },
+  {
     "id": 0,
     "title":"EECS Licklider Best Undergraduate Researcher Award",
-    "description": "I was awarded by the MIT EECS department for my research contribution to the Lenticular Object project."
+    "description": "Awarded by the MIT EECS department for my research contribution to the Lenticular Object project."
   },
   {
     "id": 1,
     "title":"EECS Best Undergraduate Research Award (Best SuperUROP Award)",
     "link": "https://www.eecs.mit.edu/news-events/announcements/best-best-superurop-2018-2019-award-winners",
-    "description": "SuperUROP is a two-semester research class for students interested in a research career. I was awarded by the MIT EECS department for being one of the top three performers in this class."
+    "description": "Awarded by the MIT EECS department for being one of the top three performers in SuperUROP, a two-semester research class for students interested in a research career."
   },
   {
     "id": 2,
