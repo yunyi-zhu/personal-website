@@ -12,7 +12,7 @@ const Navbar = ( {scrollFunction} ) => {
         <div className="menu">
           <button onClick={() => scrollFunction("research")}>Publications</button>
           <button onClick={() => scrollFunction("awards")}>Awards</button>
-          <button onClick={() => scrollFunction("projects")}>Projects</button>
+          <button>More</button>
           <Link to="yunyizhu-cv.pdf" target="_blank">CV</Link>
         </div>
       </div>

@@ -2,7 +2,7 @@ import React from 'react';
 import researchProjects from '../../data/projects.json';
 import ProjectPreview from './project_preview.js';
 
-const Research = () => (
+const Project = () => (
   <div className="project-section">
     <div className="section-title">
       Projects Related to Fabrication and Design
@@ -44,4 +44,4 @@ const Research = () => (
 );
 
 
-export default Research;
+export default Project;

@@ -1,11 +1,19 @@
 [
   {
+    "id": 3,
+    "title": "Lenticular Objects: 3D Printed Objects with Lenticular Lens Surfaces that Can Change their Appearance Depending on the Viewpoint.",
+    "authors": "Jiani Zeng*, Honghao Deng*, Yunyi Zhu*, Michael Wessely, Axel Kilian, Stefanie Mueller.",
+    "conference": "Proceedings of UIST 2020 (to appear). [* equal contribution]",
+    "thumbnail": "lenticular-thumbnail.jpeg",
+    "description": "Lenticular Objects are 3D objects that appear differently under different viewpoints. We accomplish this by 3D printing lenticular lenses across the curved surface of objects. By calculating the lens distribution and the corresponding surface color patterns, we can determine which appearance is shown to the user at each viewpoint."
+  },
+  {
     "id": 1,
     "title": "MorphSensor: An Electronic Design Tool for Reforming Sensor Modules.",
     "authors": "Junyi Zhu, Yunyi Zhu, Jiaming Cui, Leon Cheng, Jackson C Snowden, Mark Chounlakone, Michael Wessely, Stefanie Mueller.",
-    "conference": "Proceedings of UIST 2020",
+    "conference": "Proceedings of UIST 2020.",
     "thumbnail": "morphsensor-thumbnail.png",
-    "description": "We present a system that allows users to break down sensor modules into components and rearrange the pieces according to product's geometry, which better integrate with the three-dimensional shape of a physical prototype. I implemented the MorphSensor 3D editor, which supports interactive electronics component placement, wire generation and wire svg output.",
+    "description": "MorphSensor is a system that allows users to break down sensor modules into components and rearrange the pieces according to product's geometry, which better integrate with the three-dimensional shape of a physical prototype.",
     "doi": "https://dl.acm.org/doi/10.1145/3379337.3415898",
     "pdf": "http://groups.csail.mit.edu/hcie/files/research-projects/morphsensor/2020-UIST-morphsensor-paper.pdf",
     "video": "https://www.youtube.com/watch?v=d5o3LI0rL7A&feature=youtu.be",
@@ -15,9 +23,9 @@
     "id": 2,
     "title": "CurveBoards: Integrating Breadboards into Physical Objects to Prototype Function in the Context of Form.",
     "authors": "Junyi Zhu, Lotta-Gili Blumberg, Yunyi Zhu, Martin Nisser, Ethan Levi Carlson, Xin Wen, Kevin Shum, Jessica Ayeley Quaye, Stefanie Mueller.",
-    "conference": "Proceedings of CHI 2020",
+    "conference": "Proceedings of CHI 2020.",
     "thumbnail": "curveboard-thumbnail.jpg",
-    "description": "CurveBoards are breadboards integrated into physical objects. In contrast to traditional breadboards, CurveBoards better preserve the object’s look and feel while maintaining high circuit fluidity, which enables designers to exchange and reposition components during design iteration. I implemented the CurveBoard 3D editor, which converts a 3D model to a CurveBoard through bus and hole generation.",
+    "description": "CurveBoards are breadboards integrated into physical objects. In contrast to traditional breadboards, CurveBoards better preserve the object’s look and feel while maintaining high circuit fluidity, which enables designers to exchange and reposition components during design iteration.",
     "doi": "https://dl.acm.org/doi/abs/10.1145/3313831.3376617",
     "pdf": "http://groups.csail.mit.edu/hcie/files/research-projects/curveboard/2020-CHI-curveboard-paper.pdf",
     "video": "https://www.youtube.com/watch?v=erV9JR0rjGs&feature=youtu.be",

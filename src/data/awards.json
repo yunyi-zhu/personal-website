@@ -1,24 +1,24 @@
 [
   {
     "id": 3,
-    "title": "Jacobs Presidential Fellowship",
+    "title": "Jacobs Presidential Fellowship (2021)",
     "link": "https://oge.mit.edu/finances/fellowships/presidential/",
     "description": "Awarded by MIT EECS department."
   },
   {
     "id": 0,
-    "title":"EECS Licklider Best Undergraduate Researcher Award",
+    "title":"EECS Licklider Best Undergraduate Researcher Award (2021)",
     "description": "Awarded by the MIT EECS department for my research contribution to the Lenticular Object project."
   },
   {
     "id": 1,
-    "title":"EECS Best Undergraduate Research Award (Best SuperUROP Award)",
+    "title":"EECS Best Undergraduate Research Award (Best SuperUROP Award 2019)",
     "link": "https://www.eecs.mit.edu/news-events/announcements/best-best-superurop-2018-2019-award-winners",
     "description": "Awarded by the MIT EECS department for being one of the top three performers in SuperUROP, a two-semester research class for students interested in a research career."
   },
   {
     "id": 2,
-    "title": "Leiserchess Performance Engineering Award",
+    "title": "Leiserchess Performance Engineering Award 2018",
     "description": "Awarded by the class staff of 6.172 Performance Engineering of Software Systems for designing and implementing the fastest chess-bot in class."
   }
 ]

@@ -49,7 +49,7 @@ const App = () => {
           <div>
             <Teaching />
           </div>
-          <div ref={projects}>
+          <div>
             <Projects />
           </div>
         </div>
