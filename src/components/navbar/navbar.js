@@ -4,15 +4,17 @@ import { ReactComponent as LinkedInIcon } from './icons/linkedin.svg';
 import { ReactComponent as GoogleScholarIcon } from './icons/googlescholar.svg';
 import { ReactComponent as GithubIcon } from './icons/github.svg';
 
-const Navbar = ( {scrollFunction} ) => {
+const Navbar = ( {page="index",scrollFunction} ) => {
   return (
     <nav>
       <div className="navigation">
-        <Link to="/" onClick={() => window.location.reload()} className="name-brand">Yunyi Zhu</Link>
+        <Link to="/" className="name-brand">
+          Yunyi Zhu
+        </Link>
         <div className="menu">
-          <button onClick={() => scrollFunction("research")}>Publications</button>
-          <button onClick={() => scrollFunction("awards")}>Awards</button>
-          <button>More</button>
+          <button >Publications</button>
+          {/*<button onClick={() => scrollFunction("awards")}>Awards</button>*/}
+          <Link to="/projects">Projects</Link>
           <Link to="yunyizhu-cv.pdf" target="_blank">CV</Link>
         </div>
       </div>

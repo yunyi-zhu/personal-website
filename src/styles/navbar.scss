@@ -28,19 +28,14 @@ nav {
       font-size: 20px;
     }
 
-    a {
-      margin: 15px;
-      color: white;
-      text-decoration: none;
-    }
-
     .menu {
       display: inline;
-      margin: auto;
+      //margin: auto;
       margin-right: 0;
       margin-bottom: 0;
 
       button, a {
+        margin-left: 15px;
         font-family: $titleFont;
         font-size: 16px;
         color: white;

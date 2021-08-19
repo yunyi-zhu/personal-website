@@ -1,6 +1,6 @@
 [
   {
-    "id": 10,
+    "id": 11,
     "category": "research",
     "title": "Déjà Vu: Assemble Web Apps from Modules",
     "link": "https://deja-vu-platform.com/",
@@ -8,7 +8,7 @@
     "description": "Research project directed by <a href='https://people.csail.mit.edu/dnj/' target='_blank'>Prof. Daniel Jackson</a> and <a href='https://spderosso.github.io/' target='_blank'>Dr. Santiago Perez De Rosso</a>. Originally published in <a href='https://groups.csail.mit.edu/sdg/pubs/2019/onward19.pdf' target='_blank'>SPLASH'19</a>, Déjà Vu has become an open-source platform for building web apps. It features a catalog of full-stack functionality and an HTML-like language for assembling web apps using the catalog."
   },
   {
-    "id": 9,
+    "id": 10,
     "category": "research",
     "title": "CLEVR: Collaborative Learning Environments in Virtual Reality",
     "link": "https://education.mit.edu/project/clevr/",
@@ -16,7 +16,7 @@
     "description": "Research project directed by <a href='https://education.mit.edu/' target='_blank'>MIT Education Arcade</a> and <a href='http://gamelab.mit.edu/' target='_blank'>MIT Game Lab</a>. CLEVR creates a feasible immersive learning experience through virtual reality. In this project, our team of six developed a VR Game called CellVerse to help teams of high school students learn cell biology."
   },
   {
-    "id": 8,
+    "id": 9,
     "category": "fab",
     "title": "Soft Textiles from 3D Printed Rigid Materials",
     "skill": "3D Printing, CAD",
@@ -24,7 +24,7 @@
     "description": "I designed and 3D printed the interlocking structure that turns rigid materials into soft textiles. I demonstrated its strechability by stitching it onto a piece of clothing."
   },
   {
-    "id": 7,
+    "id": 8,
     "category": "other",
     "title": "Leiserchess: Chessbot Performence Competition (Ranked 1st in class)",
     "skill": "Performance Engineering, AI Development",
@@ -33,7 +33,7 @@
     "description": "Final project of 6.172: Performance Engineering of Software Systems. In this project, our team of four implemented the fastest chessbot AI in class, which uses open book, bitmaps, alpha-beta pruning and various other performance engineering techniques. Implemented in C."
   },
   {
-    "id": 65,
+    "id": 7,
     "category": "other",
     "title": "ShaperSketch: Using Shape Grammar to Sketch",
     "skill": "Shape Grammar",
@@ -69,7 +69,7 @@
     "description": "Final project of 6.073: Game Development. The player needs to survive on a planet while balancing among power, food and the emission of carbon dioxide."
   },
   {
-    "id": 2,
+    "id": 3,
     "category": "fab",
     "title": "The Temperature Sensing Vest",
     "thumbnail": "enlightenment-vest-2.jpg",
@@ -77,7 +77,7 @@
     "description": "This vest lights up when it is being worn and changes the color of its light depending on its surrounding temperature."
   },
   {
-    "id": 3,
+    "id": 2,
     "category": "fab",
     "skill": "Woodworking",
     "title": "The Mosaic Stool",
@@ -85,7 +85,7 @@
     "description": "The mosaic stool features its soft and wooden seat surface. In this project, I used a straw rope to connect small wooden blocks to create a soft surface out of rigid materials."
   },
   {
-    "id": 35,
+    "id": 1,
     "category": "fab",
     "title": "Bus Stop near Stata Center",
     "skill": "Rendering, Architecture Design",
@@ -93,7 +93,7 @@
     "description": "In this project, I designed, modeled and rendered a bus stop shelter. It features its glass walls and the convex lenses in the shelter ceiling, which gather sun light for the people waiting for the bus on a cold Boston day."
   },
   {
-    "id": 8,
+    "id": 0,
     "category": "fab",
     "title": "Shape Grammar Origami",
     "skill": "Paper Folding, Shape Grammar",

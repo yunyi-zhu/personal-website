@@ -25,13 +25,12 @@ const Teaching = () =>
                 {course.term}
               </div>
               <ul>
-                {course.details.map((job)=> (
-                  <li>
+                {course.details.map((job, i)=> (
+                  <li key={i}>
                     {job}
                   </li>
                 ))}
               </ul>
-
             </div>
           </div>
         )}
