@@ -1,5 +1,17 @@
 [
   {
+    "id": 1,
+    "courseName": "6.033: Computer Systems Engineering (TA)",
+    "link": "http://web.mit.edu/6.033/www/",
+    "term": "Spring 2021, Spring 2020",
+    "details": [
+      "assigned participation grades for students' recitation participation",
+      "graded system critiques (part of the homework)",
+      "held office hours (2hr/week) to answer homework, quiz and project questions",
+      "transitioned from regular on-campus teaching to COVID-time online teaching (set up the recitation slack, piazza and scheduled the online mini-recitations)"
+    ]
+  },
+  {
     "id": 2,
     "courseName": "6.046: Design and Analysis of Algorithms (TA)",
     "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/",
@@ -9,18 +21,6 @@
       "helped draft, test and grade quizzes",
       "created part of the problem sets, recitation notes and mini-quizzes",
       "held office hours (4hr/week) to answer problem set and quiz questions"
-    ]
-  },
-  {
-    "id": 1,
-    "courseName": "6.033: Computer Systems Engineering (TA)",
-    "link": "http://web.mit.edu/6.033/www/",
-    "term": "Spring 2020",
-    "details": [
-      "assigned participation grades for students' recitation participation",
-      "graded system critiques (part of the homework)",
-      "held office hours (2hr/week) to answer homework, quiz and project questions",
-      "transitioned from regular on-campus teaching to COVID-time online teaching (set up the recitation slack, piazza and scheduled the online mini-recitations)"
     ]
   }
 ]

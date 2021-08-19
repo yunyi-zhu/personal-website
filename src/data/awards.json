@@ -1,5 +1,10 @@
 [
   {
+    "id": 0,
+    "title":"EECS Licklider Best Undergraduate Researcher Award",
+    "description": "I was awarded by the MIT EECS department for my research contribution to the Lenticular Object project."
+  },
+  {
     "id": 1,
     "title":"EECS Best Undergraduate Research Award (Best SuperUROP Award)",
     "link": "https://www.eecs.mit.edu/news-events/announcements/best-best-superurop-2018-2019-award-winners",
