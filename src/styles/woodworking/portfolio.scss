@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+$woodworkingTitleFont: 'Raleway', sans-serif;
+
+.woodworking-page {
+  //background:green;
+
+  nav {
+    height: 50px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    font-family: $woodworkingTitleFont;
+    border-bottom: #aaaaaa 0.5px solid;
+
+
+    .logo {
+      font-size: 45px;
+      font-weight: 800;
+    }
+
+    .selections {
+      padding-top: 25px;
+      a {
+        margin-left: 60px;
+
+        font-size: 16px;
+        font-weight: 400;
+
+        background: none;
+        border: none;
+        color: #636363;
+        text-decoration: none;
+
+        &:hover, &:focus {
+          color: black;
+          background: none;
+          border: none;
+          outline:none;
+          cursor: pointer;
+        }
+      }
+    }
+  }
+
+  .footer {
+    color: #636363;
+    height: 60px;
+    display: block;
+    font-family: $woodworkingTitleFont;
+    text-align: center;
+    border-top: #aaaaaa 0.5px solid;
+    background: white;
+  }
+}
+
+
+
