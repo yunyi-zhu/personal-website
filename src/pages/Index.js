@@ -11,19 +11,19 @@ import Footer from "../components/navbar/footer";
 const MainPage = () => {
   return (
     <div className="page-container">
-      <Navbar page="index" />
+      <Navbar page="index"/>
       <div className="body-part">
-        <About/>
-        <div>
-          <Research id="research"/>
+        <About />
+        <div id="publications">
+          <Research />
         </div>
-        <div>
-          <Awards id="awards"/>
+        <div id="awards">
+          <Awards />
         </div>
         <div>
           <ConferenceAttendance />
         </div>
-        <div>
+        <div id="teaching">
           <Teaching />
         </div>
         <div>

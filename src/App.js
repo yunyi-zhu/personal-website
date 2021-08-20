@@ -1,8 +1,9 @@
 import React from 'react';
+import { useRef, createRef } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import { Switch } from 'react-router-dom';
 import './styles/styles.scss';
-import Home from './pages/Index';
+import MainPage from './pages/Index';
 import ProjectsPage from './pages/projects-page';
 
 const App = () => {
@@ -10,7 +11,7 @@ const App = () => {
     <Router forceRefresh={true}>
       <Switch>
         <Route exact path="/">
-          <Home />
+          <MainPage />
         </Route>
         <Route exact path="/projects">
           <ProjectsPage />
