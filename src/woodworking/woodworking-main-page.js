@@ -8,7 +8,7 @@ import portfolio from './portfolio.json';
 const WoodworkingMainPage = () => (
   <div className="woodworking-page">
     <Navbar />
-    <div className="woodworking-portfolio">
+    <div className="woodworking-page-inner woodworking-portfolio">
       {
         portfolio.map((project) => (
           <WoodworkingPortfolioPreview project={project} />

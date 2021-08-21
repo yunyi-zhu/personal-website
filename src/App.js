@@ -4,6 +4,7 @@ import { Switch } from 'react-router-dom';
 import './styles/styles.scss';
 import MainPage from './pages/Index';
 import WoodworkingMainPage from './woodworking/woodworking-main-page';
+import WoodworkingAboutPage from './woodworking/woodworking-about-page';
 import ProjectsPage from './pages/projects-page';
 
 const App = () => {
@@ -15,6 +16,9 @@ const App = () => {
         </Route>
         <Route exact path="/woodworking">
           <WoodworkingMainPage />
+        </Route>
+        <Route exact path="/woodworking/about">
+          <WoodworkingAboutPage />
         </Route>
       </Switch>
     </Router>

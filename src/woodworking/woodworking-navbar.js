@@ -13,7 +13,7 @@ const Navbar = () => (
       {/*<Link to="/woodworking">*/}
       {/*  Plans*/}
       {/*</Link>*/}
-      <Link to="/woodworking">
+      <Link to="/woodworking/about">
         About
       </Link>
     </div>
