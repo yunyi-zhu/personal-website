@@ -2,13 +2,33 @@
   {
     "id": 1,
     "title": "Sit-on Shoe Rack",
+    "thumbnail": "2_shoe-rack.jpg",
+    "material": "Maple Plywood, Cherry",
+    "description": "this shoe rack",
     "mdx": "2_shoe-rack",
-    "thumbnail": "2_shoe-rack.jpeg"
+    "links": [
+      {
+        "title": "Plan (PDF)",
+        "link": "2_shoe-rack/shoe-rack-plan.pdf"
+      },
+      {
+        "title": "Source (Rhino 3dm)",
+        "link": "2_shoe-rack/shoe-rack-source-file.3dm"
+      }
+    ]
   },
   {
     "id": 0,
     "title": "Scrap Wood Shoe Box",
+    "thumbnail": "1_shoe-box.jpg",
+    "material": "Yellow Pine, Scrap Plywood",
+    "description": "this shoe box",
     "mdx": "1_shoe-box",
-    "thumbnail": "1_shoe-box.jpg"
+    "links": [
+      {
+        "title": "Sketch",
+        "link": "1_shoe-box/shoe-box-sketch.jpeg"
+      }
+    ]
   }
 ]

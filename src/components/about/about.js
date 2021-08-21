@@ -34,7 +34,7 @@ const About = () => (
         I have been involved in HCI research since 2018. I have worked as an undergraduate research assistant
         with <a href="https://hcie.csail.mit.edu/stefanie-mueller.html" target="_blank">
         Prof. Stefanie Mueller
-      </a> and <a href="https://http://people.csail.mit.edu/dnj/" target="_blank">
+      </a> and <a href="https://people.csail.mit.edu/dnj/" target="_blank">
         Prof. Daniel Jackson
       </a> at <a href="https://www.csail.mit.edu/" target="_blank">MIT CSAIL</a>.
         I won the <a href="https://www.eecs.mit.edu/news-events/announcements/best-best-superurop-2018-2019-award-winners" target="_blank">MIT EECS best undergraduate research award</a> in 2019 and 2021.
