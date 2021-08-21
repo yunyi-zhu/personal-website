@@ -3,6 +3,8 @@
 $woodworkingTitleFont: 'Raleway', sans-serif;
 $woodworkingTextFont: 'Open Sans', sans-serif;
 
+
+
 .woodworking-page {
   //background:green;
 
@@ -45,6 +47,9 @@ $woodworkingTextFont: 'Open Sans', sans-serif;
   }
 
   .woodworking-portfolio {
+    font-family: $woodworkingTextFont;
+    font-size: 16px;
+
     margin-top: 120px;
     margin-left: 15%;
     margin-right: 15%;
@@ -65,9 +70,29 @@ $woodworkingTextFont: 'Open Sans', sans-serif;
         }
       }
 
-      .title {
-        font-family: $woodworkingTextFont;
-        font-size: 18px;
+      .description {
+        margin-top: 6px;
+
+        .links {
+          display: flex;
+          margin-top: 12px;
+
+          a {
+            font-size: 14px;
+            @include link-button-bright(#333333, #333333, #333333);
+          }
+        }
+
+        .material {
+          font-weight: 300;
+          font-style: italic;
+          margin-bottom: 3px;
+        }
+
+        .title {
+          font-weight: 700;
+          margin-bottom: 6px;
+        }
       }
     }
   }

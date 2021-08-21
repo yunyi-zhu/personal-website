@@ -39,6 +39,36 @@ $desktop: "screen and (min-width : 1281px)";
   }
 }
 
+@mixin link-button($originalColor: darkgrey, $highlightColor: orange) {
+  margin-right: 15px;
+  padding: 3px 10px;
+  background: $originalColor;
+  border-radius: 4px;
+
+  text-decoration: none;
+  color: white;
+
+  &:hover {
+    background: $highlightColor;
+  }
+}
+
+@mixin link-button-bright($lineColor: black, $hoverBackground: black, $textColor: black) {
+  margin-right: 15px;
+  padding: 3px 10px;
+  background: none;
+  border-radius: 4px;
+  border: $lineColor 1px solid;
+
+  text-decoration: none;
+  color: $textColor;
+
+  &:hover {
+    color: white;
+    background: $hoverBackground;
+  }
+}
+
 .body-part {
   margin-left: 15%;
   margin-top: 60px;

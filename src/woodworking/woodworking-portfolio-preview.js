@@ -11,7 +11,7 @@ const Project = ({project}) => (
         {project.title}
       </div>
       <div className="material">
-        {!!project.material && project.material}
+        &bull; {!!project.material && project.material}
       </div>
       <div className="description">
         {!!project.description && project.description}
@@ -19,7 +19,7 @@ const Project = ({project}) => (
       <div className="links">
         {
           project.links.map((pair,i) => (
-            <div key={i}>
+            <div key={i} className="button">
               <Link to={pair.link} target="_blank">
                 {pair.title}
               </Link>
