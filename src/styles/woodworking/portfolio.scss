@@ -50,10 +50,12 @@ $woodworkingTextFont: 'Open Sans', sans-serif;
   .woodworking-portfolio {
     display: flex;
     flex-wrap: wrap;
+    color: #333333;
 
     .preview {
       width: 350px;
       margin:30px 60px 30px 0;
+      font-size: 16px;
 
       .thumbnail {
         img {
@@ -69,7 +71,7 @@ $woodworkingTextFont: 'Open Sans', sans-serif;
 
         .links {
           display: flex;
-          margin-top: 12px;
+          margin-top: 16px;
 
           a {
             font-size: 14px;
