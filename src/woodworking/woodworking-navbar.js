@@ -10,9 +10,6 @@ const Navbar = () => (
       <Link to="/woodworking">
         Portfolio
       </Link>
-      {/*<Link to="/woodworking">*/}
-      {/*  Plans*/}
-      {/*</Link>*/}
       <Link to="/woodworking/about">
         About
       </Link>

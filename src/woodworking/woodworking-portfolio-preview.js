@@ -17,15 +17,20 @@ const Project = ({project}) => (
         {!!project.description && project.description}
       </div>
       <div className="links">
-        {
-          project.links.map((pair,i) => (
-            <div key={i} className="button">
-              <Link to={pair.link} target="_blank">
-                {pair.title}
-              </Link>
+          {!!project.projectPage &&
+            <div className="button">
+              <a href={project.projectPage}>Project Page</a>
             </div>
-          ))
-        }
+          }
+          {
+            project.links.map((pair,i) => (
+              <div key={i} className="button">
+                <Link to={pair.link} target="_blank">
+                  {pair.title}
+                </Link>
+              </div>
+            ))
+          }
       </div>
     </div>
   </div>

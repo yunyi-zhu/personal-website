@@ -71,7 +71,11 @@ $woodworkingTextFont: 'Open Sans', sans-serif;
 
         .links {
           display: flex;
+          flex-wrap: wrap;
           margin-top: 16px;
+          .button {
+            margin-bottom: 12px;
+          }
 
           a {
             font-size: 14px;

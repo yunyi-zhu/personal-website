@@ -6,7 +6,7 @@ const About = () => (
   <div className="woodworking-page">
     <Navbar />
     <div className="woodworking-page-inner">
-      I'm still writing this :D
+      I'm still working on this :D
     </div>
     <Footer />
   </div>
