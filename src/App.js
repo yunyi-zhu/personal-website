@@ -8,10 +8,6 @@ import WoodworkingAboutPage from './woodworking/woodworking-about-page';
 import WoodworkingProjectPage from './woodworking/woodworking-project-page';
 import ProjectsPage from './pages/projects-page';
 
-/* eslint-disable import/no-webpack-loader-syntax */
-import One_ShoeBox from '!babel-loader!@mdx-js/loader!./woodworking/woodworking-pages/1_shoe-box.mdx';
-
-
 const App = () => {
   return (
     <Router forceRefresh={true}>
@@ -26,8 +22,7 @@ const App = () => {
           <WoodworkingAboutPage />
         </Route>
         <Route path="/woodworking/project/:id">
-          {/*<WoodworkingProjectPage />*/}
-          <One_ShoeBox />
+          <WoodworkingProjectPage />
         </Route>
       </Switch>
     </Router>
