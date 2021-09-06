@@ -23,7 +23,7 @@ const App = () => {
         </Route>
         <Route path="/woodworking/project/:id">
           <WoodworkingProjectPage />
-        </Route>p
+        </Route>
       </Switch>
     </Router>
   );

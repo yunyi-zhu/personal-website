@@ -116,11 +116,29 @@ $woodworkingTextFont: 'Open Sans', sans-serif;
   font-family: $woodworkingTextFont;
   font-size: 16px;
 
+  margin: auto;
   margin-top: 120px;
-  margin-left: 15%;
-  margin-right: 15%;
+
+  width: 70vw;
 
   padding-bottom: 40px;
+}
+
+.woodworking-project-page {
+  font-family: $woodworkingTextFont;
+  font-size: 16px;
+
+  margin: auto;
+  margin-top: 120px;
+
+  padding-bottom: 40px;
+
+  max-width: 800px;
+
+  img {
+    max-width: 100%;
+    max-height: 60vh;
+  }
 }
 
 

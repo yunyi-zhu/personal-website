@@ -17,7 +17,7 @@ const Project = () => {
   return (
     <div className="woodworking-page">
       <Navbar />
-      <div className="woodworking-page-inner">
+      <div className="woodworking-project-page">
         {!!id && links[id] && links[id]}
         {!id || !links[id] &&
         <div>

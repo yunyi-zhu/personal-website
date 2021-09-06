@@ -19,7 +19,7 @@ const Project = ({project}) => (
       <div className="links">
           {!!project.projectPage &&
             <div className="button">
-              <a href={project.projectPage}>Project Page</a>
+              <Link to={"/woodworking/project/"+project.projectPage}>Project Page</Link>
             </div>
           }
           {
