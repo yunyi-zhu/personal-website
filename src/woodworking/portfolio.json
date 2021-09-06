@@ -19,12 +19,11 @@
   },
   {
     "id": 0,
-    "title": "Scrap Wood Shoe Box",
+    "title": "Birdhouse Shoe Box",
     "thumbnail": "1_shoe-box.jpg",
     "material": "Yellow Pine, Birch Plywood",
     "description": "I built this shoe box (chest) to hold flip-flops on the balcony of my old apartment and prevent them from dust. The slanted lid allows rain to drip down.",
     "mdx": "1_shoe-box",
-    "projectPage": "1_shoe-box",
     "links": [
       {
         "title": "Sketch",
