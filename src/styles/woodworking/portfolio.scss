@@ -148,6 +148,14 @@ $woodworkingTextFont: 'Open Sans', sans-serif;
     margin-left: auto;
     margin-right: auto;
   }
+
+  a {
+    @include link-woodworking();
+  }
+
+  h2 {
+    margin-top: 40px;
+  }
 }
 
 
