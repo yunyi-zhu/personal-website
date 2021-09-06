@@ -4,8 +4,8 @@ import Footer from './woodworking-footer';
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom';
 
-// /* eslint-disable import/no-webpack-loader-syntax */
-// // import One_ShoeBox from '!babel-loader!@mdx-js/loader!./woodworking-pages/1_shoe-box.mdx';
+/* eslint-disable import/no-webpack-loader-syntax */
+import One_ShoeBox from '!babel-loader!@mdx-js/loader!./woodworking-pages/1_shoe-box.mdx';
 
 const links = {
   "1_shoe-box": <One_ShoeBox />
