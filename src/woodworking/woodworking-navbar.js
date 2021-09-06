@@ -4,7 +4,9 @@ import {Link} from 'react-router-dom';
 const Navbar = () => (
   <nav className="navbar">
     <div className="logo">
-      YUNYI ZHU
+      <Link to="/woodworking">
+        YUNYI ZHU
+      </Link>
     </div>
     <div className="selections">
       <Link to="/woodworking">

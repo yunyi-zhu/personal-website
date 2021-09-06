@@ -21,6 +21,12 @@ $woodworkingTextFont: 'Open Sans', sans-serif;
     .logo {
       font-size: 45px;
       font-weight: 800;
+
+      a {
+        font-family: $woodworkingTitleFont;
+        text-decoration: none;
+        color: #333333;
+      }
     }
 
     .selections {
