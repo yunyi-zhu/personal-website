@@ -5,6 +5,7 @@ import './styles/styles.scss';
 import MainPage from './pages/Index';
 import WoodworkingMainPage from './woodworking/woodworking-main-page';
 import WoodworkingAboutPage from './woodworking/woodworking-about-page';
+import WoodworkingProjectPage from './woodworking/woodworking-project-page';
 import ProjectsPage from './pages/projects-page';
 
 const App = () => {
@@ -20,6 +21,9 @@ const App = () => {
         <Route exact path="/woodworking/about">
           <WoodworkingAboutPage />
         </Route>
+        <Route path="/woodworking/project/:id">
+          <WoodworkingProjectPage />
+        </Route>p
       </Switch>
     </Router>
   );
