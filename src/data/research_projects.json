@@ -3,8 +3,11 @@
     "id": 3,
     "title": "Lenticular Objects: 3D Printed Objects with Lenticular Lens Surfaces that Can Change their Appearance Depending on the Viewpoint.",
     "authors": "Jiani Zeng*, Honghao Deng*, Yunyi Zhu*, Michael Wessely, Axel Kilian, Stefanie Mueller.",
-    "conference": "Proceedings of UIST 2020 (to appear). [* equal contribution]",
+    "conference": "Proceedings of UIST 2021. [* equal contribution]",
     "thumbnail": "lenticular-thumbnail.jpeg",
+    "pdf": "https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.pdf",
+    "video": "https://www.youtube.com/watch?v=tLCBk1Z3ZgQ",
+    "projectPage": "https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.html",
     "description": "Lenticular Objects are 3D objects that appear differently under different viewpoints. We accomplish this by 3D printing lenticular lenses across the curved surface of objects. By calculating the lens distribution and the corresponding surface color patterns, we can determine which appearance is shown to the user at each viewpoint."
   },
   {
