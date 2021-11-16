@@ -27,7 +27,7 @@ const Navbar = ( {page="index"} ) => {
           </a>
         </div>
         <div className="github">
-          <a href="https://github.com/yunyizhu1" target="_blank">
+          <a href="https://github.com/yunyi-zhu" target="_blank">
             <GithubIcon />
           </a>
         </div>

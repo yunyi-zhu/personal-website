@@ -5,6 +5,7 @@
     "authors": "Jiani Zeng*, Honghao Deng*, Yunyi Zhu*, Michael Wessely, Axel Kilian, Stefanie Mueller.",
     "conference": "Proceedings of UIST 2021. [* equal contribution]",
     "thumbnail": "lenticular-thumbnail.jpeg",
+    "doi": "https://dl.acm.org/doi/10.1145/3472749.3474815",
     "pdf": "https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.pdf",
     "video": "https://www.youtube.com/watch?v=tLCBk1Z3ZgQ",
     "projectPage": "https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.html",
