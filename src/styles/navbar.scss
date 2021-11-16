@@ -108,10 +108,20 @@ nav {
   background: lightgrey;
   margin-top: 40px;
 
-  div {
+  div, a {
     font-size: 14px;
     font-family: $titleFont;
     color: white;
     margin: auto;
+
+    a {
+      text-decoration: none;
+      border-bottom: 1px dotted white;
+    }
+
+    div {
+      margin-top: 6px;
+      margin-bottom: 6px;
+    }
   }
 }
