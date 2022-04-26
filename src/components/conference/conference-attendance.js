@@ -4,22 +4,45 @@ const Attendance = () =>
   (
     <div className="conference-attendance-section">
       <div className="section-title">
-        Conference Attendance
+        Conference Service
       </div>
-      <ul className="conference-attendance">
-        <li>
-          <a href="https://uist.acm.org/uist2021/" target="_blank">Symposium on User Interface Software and Technology (UIST) 2021, Virtual</a>
-        </li>
-        <li>
-          <a href="https://chi2021.acm.org/" target="_blank">ACM Conference on Human Factors in Computing Systems (CHI) 2021, Virtual</a>
-        </li>
-        <li>
-          <a href="https://uist.acm.org/uist2020/" target="_blank">Symposium on User Interface Software and Technology (UIST) 2020, Virtual</a>
-        </li>
-        <li>
-          <a href="https://uist.acm.org/uist2019/" target="_blank"> Symposium on User Interface Software and Technology (UIST) 2019, New Orleans</a>
-        </li>
-      </ul>
+      <div className="conference-attendance-info">
+        <div>
+          <div className="sec-title">
+            Reviewer
+          </div>
+          <div className="info">
+            <div className="info-line">
+              <div className="item">ACM TEI</div>
+              <div className="year">2021</div>
+            </div>
+            <div className="info-line">
+              <div className="item">ACM CHI EA</div>
+              <div className="year">2022</div>
+            </div>
+            <div className="info-line">
+              <div className="item">ACM C&C</div>
+              <div className="year">2022</div>
+            </div>
+            <div className="info-line">
+              <div className="item">ACM UIST</div>
+              <div className="year">2022</div>
+            </div>
+          </div>
+        </div>
+        <div>
+          <div className="sec-title">
+            Volunteering
+          </div>
+          <div className="info">
+            <div className="info-line">
+              <div className="item">ACM CHI Student Volunteer</div>
+              <div className="year">2022</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   );
 
