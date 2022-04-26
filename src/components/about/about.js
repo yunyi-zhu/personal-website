@@ -23,15 +23,13 @@ const About = () => (
         <div className="semibold">
           Research interests:
         </div>
-        <div>Human Computer Interaction</div>
-        <div>My current projects focus on digital fabrication. I am broadly interested in
-          computational materials and wearable devices.
-          I am also open to explore other research areas in HCI.
+        <div>Human Computer Interaction, Digital Fabrication.</div>
+        <div>My current research explores ways to fabricate objects with dynamic appearances, including optic structures and programmable materials. I am also interested in haptics, shape-changing and sensing. 
         </div>
       </div>
       <div className="paragraph">
         <div className="semibold">Background:</div>
-        Prior to joining as a PhD student, I have worked as an undergraduate research assistant
+        Before joining as a PhD student, I worked as an undergraduate research assistant
         with <a href="https://hcie.csail.mit.edu/stefanie-mueller.html" target="_blank">
         Prof. Stefanie Mueller
       </a> and <a href="https://people.csail.mit.edu/dnj/" target="_blank">

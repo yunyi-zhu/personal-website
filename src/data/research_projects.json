@@ -8,7 +8,7 @@
     "doi": "https://arxiv.org/abs/2202.06165",
     "pdf": "https://groups.csail.mit.edu/hcie/files/research-projects/infraredtags/2022-CHI-InfraredTags-paper.pdf",
     "video": "https://www.youtube.com/watch?v=Tjs1zH7IMxE",
-    "projectPage": "https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.html",
+    "projectPage": "https://hcie.csail.mit.edu/research/infraredtags/infraredtags.html",
     "description": "InfraredTags are 2D codes and markers imperceptible to the naked eye that can be 3D printed as part of objects, and detected rapidly by low-cost near-infrared cameras. InfraredTags achieve this by being printed from an infrared-transmitting filament which infrared cameras can see through, and by having air gaps inside for the tag’s bits which infrared cameras capture as darker pixels in the image."
   },
   {
@@ -20,7 +20,7 @@
     "doi": "https://dl.acm.org/doi/10.1145/3472749.3474815",
     "pdf": "https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.pdf",
     "video": "https://www.youtube.com/watch?v=tLCBk1Z3ZgQ",
-    "projectPage": "https://hcie.csail.mit.edu/research/infraredtags/infraredtags.html",
+    "projectPage": "https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.html",
     "description": "Lenticular Objects are 3D objects that appear differently under different viewpoints. We accomplish this by 3D printing lenticular lenses across the curved surface of objects. By calculating the lens distribution and the corresponding surface color patterns, we can determine which appearance is shown to the user at each viewpoint."
   },
   {
