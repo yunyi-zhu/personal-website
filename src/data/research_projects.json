@@ -2,7 +2,7 @@
   {
     "id": 4,
     "title": "InfraredTags: Embedding Invisible AR Markers and Barcodes Using Low-Cost, Infrared-Based 3D Printing and Imaging Tools.",
-    "authors": "Mustafa Doga Dogan, Ahmad Taka, Michael Lu, Yunyi Zhu, Akshat Kumar, Aakar Gupta, Stefanie Mueller.",
+    "authors": "Mustafa Doga Dogan, Ahmad Taka, Michael Lu, <b>Yunyi Zhu</b>, Akshat Kumar, Aakar Gupta, Stefanie Mueller.",
     "conference": "Proceedings of CHI 2022 (to appear)",
     "thumbnail": "infraredtags-thumbnail.png",
     "doi": "https://arxiv.org/abs/2202.06165",
@@ -14,7 +14,7 @@
   {
     "id": 3,
     "title": "Lenticular Objects: 3D Printed Objects with Lenticular Lens Surfaces that Can Change their Appearance Depending on the Viewpoint.",
-    "authors": "Jiani Zeng*, Honghao Deng*, Yunyi Zhu*, Michael Wessely, Axel Kilian, Stefanie Mueller.",
+    "authors": "Jiani Zeng*, Honghao Deng*, <b>Yunyi Zhu*</b>, Michael Wessely, Axel Kilian, Stefanie Mueller.",
     "conference": "Proceedings of UIST 2021. [* equal contribution]",
     "thumbnail": "lenticular-thumbnail.jpeg",
     "doi": "https://dl.acm.org/doi/10.1145/3472749.3474815",
@@ -26,7 +26,7 @@
   {
     "id": 1,
     "title": "MorphSensor: An Electronic Design Tool for Reforming Sensor Modules.",
-    "authors": "Junyi Zhu, Yunyi Zhu, Jiaming Cui, Leon Cheng, Jackson C Snowden, Mark Chounlakone, Michael Wessely, Stefanie Mueller.",
+    "authors": "Junyi Zhu, <b>Yunyi Zhu</b>, Jiaming Cui, Leon Cheng, Jackson C Snowden, Mark Chounlakone, Michael Wessely, Stefanie Mueller.",
     "conference": "Proceedings of UIST 2020.",
     "thumbnail": "morphsensor-thumbnail.png",
     "description": "MorphSensor is a system that allows users to break down sensor modules into components and rearrange the pieces according to product's geometry, which better integrate with the three-dimensional shape of a physical prototype.",
@@ -38,7 +38,7 @@
   {
     "id": 2,
     "title": "CurveBoards: Integrating Breadboards into Physical Objects to Prototype Function in the Context of Form.",
-    "authors": "Junyi Zhu, Lotta-Gili Blumberg, Yunyi Zhu, Martin Nisser, Ethan Levi Carlson, Xin Wen, Kevin Shum, Jessica Ayeley Quaye, Stefanie Mueller.",
+    "authors": "Junyi Zhu, Lotta-Gili Blumberg, <b>Yunyi Zhu</b>, Martin Nisser, Ethan Levi Carlson, Xin Wen, Kevin Shum, Jessica Ayeley Quaye, Stefanie Mueller.",
     "conference": "Proceedings of CHI 2020.",
     "thumbnail": "curveboard-thumbnail.jpg",
     "description": "CurveBoards are breadboards integrated into physical objects. In contrast to traditional breadboards, CurveBoards better preserve the object’s look and feel while maintaining high circuit fluidity, which enables designers to exchange and reposition components during design iteration.",
