@@ -10,7 +10,7 @@ const About = () => (
         Yunyi Zhu
       </div>
       <div className="paragraph">
-        PhD student in the <a href="https://hcie.csail.mit.edu/" target="_blank">HCI Engineering Group</a> at <a href="https://www.csail.mit.edu/" target="_blank">MIT CSAIL</a>, advised by <a href="https://hcie.csail.mit.edu/stefanie-mueller" target="_blank">Prof. Stefanie Mueller</a>. I am a 2021 <a href="https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/">Jacobs Presidential Fellow</a>, and I am currently a visiting student in the <a href="https://www.akg.t.u-tokyo.ac.jp/">Kawahara Lab</a> at <a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo</a>, working with <a href="https://narumi.me/">Prof. Koya Narumi</a>.  
+        PhD student in the <a href="https://hcie.csail.mit.edu/" target="_blank">HCI Engineering Group</a> at <a href="https://www.csail.mit.edu/" target="_blank">MIT CSAIL</a>, advised by <a href="https://hcie.csail.mit.edu/stefanie-mueller" target="_blank">Prof. Stefanie Mueller</a>. I am a 2021 <a href="https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/" target="_blank">Jacobs Presidential Fellow</a>, and I am currently a visiting student in the <a href="https://www.akg.t.u-tokyo.ac.jp/" target="_blank">Kawahara Lab</a> at <a href="https://www.u-tokyo.ac.jp/en/" target="_blank">The University of Tokyo</a>, working with <a href="https://narumi.me/" target="_blank">Prof. Koya Narumi</a>.  
       </div>
       <div className="paragraph">
         <div className="semibold">
