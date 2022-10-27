@@ -10,8 +10,7 @@ const About = () => (
         Yunyi Zhu
       </div>
       <div className="paragraph">
-        PhD student in the <a href="https://hcie.csail.mit.edu/" target="_blank">HCI Engineering Group</a> at MIT, advised
-        by <a href="https://hcie.csail.mit.edu/stefanie-mueller" target="_blank">Prof. Stefanie Mueller</a>.
+        PhD student in the <a href="https://hcie.csail.mit.edu/" target="_blank">HCI Engineering Group</a> at <a href="https://www.csail.mit.edu/" target="_blank">MIT CSAIL</a>, advised by <a href="https://hcie.csail.mit.edu/stefanie-mueller" target="_blank">Prof. Stefanie Mueller</a>. I am a 2021 <a href="https://oge.mit.edu/fellowships/presidential-graduate-fellowship-program/">Jacobs Presidential Fellow</a>, and I am currently a visiting student in the <a href="https://www.akg.t.u-tokyo.ac.jp/">Kawahara Lab</a> at <a href="https://www.u-tokyo.ac.jp/en/">The University of Tokyo</a>, working with <a href="https://narumi.me/">Prof. Koya Narumi</a>.  
       </div>
       <div className="paragraph">
         <div className="semibold">
@@ -24,19 +23,22 @@ const About = () => (
           Research interests:
         </div>
         <div>Human Computer Interaction, Digital Fabrication.</div>
-        <div>My current research explores ways to fabricate objects with dynamic appearances, including optic structures and programmable materials. I am also interested in haptics, shape-changing and sensing. 
+        <div>My research explores fabrication methods for objects with dynamic appearances, including using optic structures and programmable materials. I am also interested in textile and shape-changing.
         </div>
       </div>
+
       <div className="paragraph">
-        <div className="semibold">Background:</div>
-        Before joining as a PhD student, I worked as an undergraduate research assistant
+      <div className="semibold">
+          Background:
+        </div>
+        Before joining as a PhD student, I worked at <a href="https://www.csail.mit.edu/" target="_blank">MIT CSAIL</a> as an undergraduate research assistant
         with <a href="https://hcie.csail.mit.edu/stefanie-mueller.html" target="_blank">
         Prof. Stefanie Mueller
       </a> and <a href="https://people.csail.mit.edu/dnj/" target="_blank">
         Prof. Daniel Jackson
-      </a> at <a href="https://www.csail.mit.edu/" target="_blank">MIT CSAIL</a>.
-        I won the <a href="https://www.eecs.mit.edu/2021-eecs-awards/" target="_blank">MIT EECS best undergraduate research award</a> in 2019 and 2021.
+      </a>, where I won the <a href="https://www.eecs.mit.edu/2021-eecs-awards/" target="_blank">MIT EECS best undergraduate research award</a> in 2019 and 2021. 
       </div>
+
     </div>
   </div>
 );
