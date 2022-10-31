@@ -10,7 +10,7 @@ import ProjectsPage from './pages/projects-page';
 
 const App = () => {
   return (
-    <Router forceRefresh={true}>
+
       <Switch>
         <Route exact path="/">
           <MainPage />
@@ -25,7 +25,7 @@ const App = () => {
           <WoodworkingProjectPage />
         </Route>
       </Switch>
-    </Router>
+
   );
 };
 
