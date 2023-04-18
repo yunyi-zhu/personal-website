@@ -1,7 +1,7 @@
 {
   "name": "yunyizhu-site",
   "version": "0.1.0",
-  "homepage": "https://yunyi-zhu.github.io/personal-website/",
+  "homepage": "https://yunyi-zhu.github.io",
   "private": true,
   "dependencies": {
     "@mdx-js/loader": "^1.6.22",
