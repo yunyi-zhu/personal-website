@@ -14,7 +14,11 @@ const Attendance = () =>
           <div className="info">
             <div className="info-line">
               <div className="item">ACM UIST</div>
-              <div className="year">2022</div>
+              <div className="year">2023, 2022</div>
+            </div>
+            <div className="info-line">
+              <div className="item">ACM DIS</div>
+              <div className="year">2023</div>
             </div>
             <div className="info-line">
               <div className="item">ACM SCF</div>
@@ -28,11 +32,11 @@ const Attendance = () =>
               <div className="item">ACM C&C</div>
               <div className="year">2022</div>
             </div>
-            
             <div className="info-line">
               <div className="item">ACM TEI</div>
               <div className="year">2021</div>
             </div>
+            
           </div>
         </div>
         <div>
