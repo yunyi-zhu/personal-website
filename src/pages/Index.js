@@ -26,9 +26,9 @@ const MainPage = () => {
         <div id="teaching">
           <Teaching />
         </div>
-        <div>
+        {/* <div>
           <Projects />
-        </div>
+        </div> */}
       </div>
       <Footer/>
     </div>

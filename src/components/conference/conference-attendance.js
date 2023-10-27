@@ -4,7 +4,7 @@ const Attendance = () =>
   (
     <div className="conference-attendance-section">
       <div className="section-title">
-        Conference Service
+        Academic Service
       </div>
       <div className="conference-attendance-info">
         <div>
@@ -13,20 +13,20 @@ const Attendance = () =>
           </div>
           <div className="info">
             <div className="info-line">
+              <div className="item">ACM CHI</div>
+              <div className="year">2024</div>
+            </div>
+            <div className="info-line">
               <div className="item">ACM UIST</div>
+              <div className="year">2023, 2022</div>
+            </div>
+            <div className="info-line">
+              <div className="item">ACM SCF</div>
               <div className="year">2023, 2022</div>
             </div>
             <div className="info-line">
               <div className="item">ACM DIS</div>
               <div className="year">2023</div>
-            </div>
-            <div className="info-line">
-              <div className="item">ACM SCF</div>
-              <div className="year">2022</div>
-            </div>
-            <div className="info-line">
-              <div className="item">ACM CHI EA</div>
-              <div className="year">2022</div>
             </div>
             <div className="info-line">
               <div className="item">ACM C&C</div>
@@ -35,6 +35,10 @@ const Attendance = () =>
             <div className="info-line">
               <div className="item">ACM TEI</div>
               <div className="year">2021</div>
+            </div>
+            <div className="info-line">
+              <div className="item">ACM SUI</div>
+              <div className="year">2023</div>
             </div>
             
           </div>

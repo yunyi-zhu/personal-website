@@ -1,6 +1,16 @@
 [
   {
     "id": 1,
+    "courseName": "6.C35: Interactive Data Visualization & Society (TA)",
+    "link": "https://vis-society.github.io/",
+    "term": "Spring 2023",
+    "details": [
+      "graded and provided feedback to student visualization assignments and final projects",
+      "held office hours (2hr/week) to answer assignment and project questions"
+    ]
+  },
+  {
+    "id": 2,
     "courseName": "6.033: Computer Systems Engineering (TA)",
     "link": "http://web.mit.edu/6.033/www/",
     "term": "Spring 2021, Spring 2020",
@@ -12,7 +22,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": 3,
     "courseName": "6.046: Design and Analysis of Algorithms (TA)",
     "link": "https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/",
     "term": "Fall 2020",
