@@ -1,3 +1,8 @@
+$phone: "only screen and (min-width : 480px)";
+$tablet: "screen and (min-width : 961px)";
+$laptop: "screen and (min-width : 1025px)";
+$desktop: "screen and (min-width : 1281px)";
+
 @import 'general';
 
 .research-section {
@@ -8,60 +13,87 @@
     @include section-title();
   }
 
-    .publication_preview {
-      display: flex;
-      margin: 10px 20px;
-      font-family: $textFont;
-      font-size: 14px;
+  .publication_preview {
+    display: flex;
+    flex-direction: column; // stack children vertically on mobile
+    margin: 10px 20px;
+    font-family: $textFont;
+    font-size: 14px;
 
-      .thumbnail {
-        align-self: left;
-        img {
-          width: 200px;
+    .thumbnail {
+      order: 0; // Show thumbnail first on mobile
+      margin-top: 20px;
+
+      img {
+        width: 100%; // full width on mobile
+        max-width: 200px; // constrain to max of 200px
+      }
+    }
+
+    .descriptions {
+      // margin: 5px 10px 10px 10px; // Adjusted margin for mobile
+
+      .title {
+        font-weight: 700;
+      }
+
+      .author {
+        b {
+          font-weight: 600;
         }
       }
 
-      .descriptions {
-        margin: 5px 10px 10px 30px;
-        align-self: right;
-        .title {
-          font-weight: 700;
+      .conference {
+        div {
+          display: inline;
+          font-style: italic;
         }
+      }
 
-        .author {
-          b {
-            font-weight: 600;
-          }
-        }
+      .description {
+        margin-top: 16px;
+      }
 
-        .conference {
-          div {
-            display: inline;
-            font-style: italic;
-          }
-        }
+      .links {
+        margin-top: 10px;
 
-        .description {
-          margin-top: 16px;
-        }
+        a {
+          margin-right: 5px; // Reduced for mobile
+          padding: 3px 10px;
+          background: darkgray;
+          border-radius: 4px;
+          font-family: $titleFont;
+          text-decoration: none;
+          color: white;
 
-        .links {
-          margin-top: 10px;
-          a {
-            margin-right: 15px;
-            padding: 3px 10px;
-            background: darkgray;
-            border-radius: 4px;
-
-            font-family: $titleFont;
-            text-decoration: none;
-            color: white;
-
-            &:hover {
-              background: $highlightBlockColor;
-            }
+          &:hover {
+            background: $highlightBlockColor;
           }
         }
       }
     }
+
+    @media #{$tablet} {
+      flex-direction: row; // revert to row for tablet and above
+
+      .thumbnail {
+        order: 0; // reset order
+
+        img {
+          width: 100%; 
+          max-width: 200px; 
+          
+          @media #{$tablet} {
+            width: 200px;  // Fix the width for tablet mode
+          }
+        }
+      }
+
+      .descriptions {
+        margin: 5px 10px 10px 30px; // revert margin for tablet and above
+      }
+    }
+
+    // Add further adjustments for $laptop and $desktop if needed...
+  }
 }

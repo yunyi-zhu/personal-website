@@ -19,27 +19,39 @@ nav {
 
 
   .navigation {
-    display: inline;
+    display: flex;
+    align-items:flex-end;
+
     .name-brand {
-      color: white;
-      text-decoration: none;
+      min-width: 100px;
       display: inline;
-      font-weight: 600;
-      font-size: 20px;
+      margin-bottom: 5px;
+
+      a {
+        color: white;
+        text-decoration: none;
+        display: inline;
+        font-weight: 600;
+        font-size: 20px;
+      }
+      
     }
 
     .menu {
-      display: inline;
+      display: flex;
       //margin: auto;
       margin-right: 0;
       margin-bottom: 0;
+      align-items:flex-end;
 
       button, a {
+
         margin-left: 15px;
         font-family: $titleFont;
         font-size: 16px;
         color: white;
         text-decoration: none;
+        margin-bottom: 7px;
 
         background: none;
         border: none;

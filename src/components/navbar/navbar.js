@@ -9,9 +9,12 @@ const Navbar = ( {page="index"} ) => {
   return (
     <nav>
       <div className="navigation">
-        <Link to="/" className="name-brand">
-          Yunyi Zhu
-        </Link>
+        <div className="name-brand">
+          <Link to="/" >
+            Yunyi Zhu
+          </Link>
+        </div>
+        
         <div className="menu">
           <ScrollLink to="publications"  smooth={true} offset={-70} duration={200} >Publications</ScrollLink>
           <ScrollLink to="awards"  smooth={true} offset={-70} duration={200} >Awards</ScrollLink>
