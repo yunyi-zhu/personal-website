@@ -2,6 +2,7 @@ import React from 'react';
 import Navbar from "../components/navbar/navbar";
 import About from "../components/about/about";
 import Research from "../components/research/research";
+import Demos from "../components/demos/demos";
 import Awards from "../components/awards/awards";
 import ConferenceAttendance from "../components/conference/conference-attendance";
 import Teaching from "../components/teaching/teaching";
@@ -16,6 +17,9 @@ const MainPage = () => {
         <About />
         <div id="publications">
           <Research />
+        </div>
+        <div>
+          <Demos />
         </div>
         <div id="awards">
           <Awards />

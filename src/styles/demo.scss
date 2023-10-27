@@ -1,0 +1,53 @@
+@import './general';
+
+.demo-section {
+  margin-top: 20px;
+  color: $textColor;
+
+  .section-title {
+    @include section-title();
+  }
+
+  .demos {
+    max-width: 600px;
+    margin: 10px 20px;
+    font-family: $textFont;
+    font-size: 14px;
+
+    .demo-preview {
+      margin-bottom: 14px;
+
+      .title {
+        font-weight: 500;
+        display: inline;
+        
+        div {
+          display: inline;
+        }
+      }
+
+      .links {
+        display: inline-block;
+        
+
+        a {
+          margin-left: 5px; // Reduced for mobile
+          padding: 3px 5px;
+          background: darkgray;
+          border-radius: 4px;
+          font-family: $titleFont;
+          text-decoration: none;
+          color: white;
+          display: inline;
+
+          &:hover {
+            background: $highlightBlockColor;
+          }
+        }
+
+      }
+
+    }
+  }
+
+}

@@ -15,15 +15,6 @@ const App = () => {
         <Route exact path="/">
           <MainPage />
         </Route>
-        <Route exact path="/woodworking">
-          <WoodworkingMainPage />
-        </Route>
-        <Route exact path="/woodworking/about">
-          <WoodworkingAboutPage />
-        </Route>
-        <Route path="/woodworking/project/:id">
-          <WoodworkingProjectPage />
-        </Route>
       </Switch>
 
   );
