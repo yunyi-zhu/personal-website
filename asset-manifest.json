@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.3b1c98b2.chunk.css",
-    "main.js": "/static/js/main.f12e7336.chunk.js",
-    "main.js.map": "/static/js/main.f12e7336.chunk.js.map",
+    "main.css": "/static/css/main.a76a6de6.chunk.css",
+    "main.js": "/static/js/main.c2d3806b.chunk.js",
+    "main.js.map": "/static/js/main.c2d3806b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.60e7967f.js",
     "runtime-main.js.map": "/static/js/runtime-main.60e7967f.js.map",
     "static/js/2.05857554.chunk.js": "/static/js/2.05857554.chunk.js",
     "static/js/2.05857554.chunk.js.map": "/static/js/2.05857554.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9c544a2be9a91cfba1380bae067aff5a.js": "/precache-manifest.9c544a2be9a91cfba1380bae067aff5a.js",
+    "precache-manifest.2289dfdd6eb94dfea62b4a2f408ad3bb.js": "/precache-manifest.2289dfdd6eb94dfea62b4a2f408ad3bb.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.3b1c98b2.chunk.css.map": "/static/css/main.3b1c98b2.chunk.css.map",
+    "static/css/main.a76a6de6.chunk.css.map": "/static/css/main.a76a6de6.chunk.css.map",
     "static/media/1_shoe-box.jpg": "/static/media/1_shoe-box.32f5bedf.jpg",
     "static/media/2_shoe-rack.jpg": "/static/media/2_shoe-rack.1e7c029b.jpg",
     "static/media/3dprint-textile.jpg": "/static/media/3dprint-textile.2046f25e.jpg",
@@ -38,7 +38,7 @@
   "entrypoints": [
     "static/js/runtime-main.60e7967f.js",
     "static/js/2.05857554.chunk.js",
-    "static/css/main.3b1c98b2.chunk.css",
-    "static/js/main.f12e7336.chunk.js"
+    "static/css/main.a76a6de6.chunk.css",
+    "static/js/main.c2d3806b.chunk.js"
   ]
 }
