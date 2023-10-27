@@ -84,6 +84,28 @@ $desktop: "screen and (min-width : 1281px)";
   margin-left: 15%;
   margin-top: 60px;
   margin-right: 20%;
+
+  // For phone screens
+  @media #{$phone} {
+    margin-left: 5%;
+    margin-right: 5%;
+  }
+
+  // For tablet screens
+  @media #{$tablet} {
+    margin-left: 10%;
+    margin-right: 10%;
+  }
+
+  // For laptop screens
+  @media #{$laptop} {
+    // You can adjust the margins or leave them as they are
+  }
+
+  // For desktop screens
+  @media #{$desktop} {
+    // You can adjust the margins or leave them as they are
+  }
 }
 
 
