@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.177300c9.chunk.css",
-    "main.js": "/static/js/main.1fac9dd2.chunk.js",
-    "main.js.map": "/static/js/main.1fac9dd2.chunk.js.map",
+    "main.js": "/static/js/main.17d6a4c0.chunk.js",
+    "main.js.map": "/static/js/main.17d6a4c0.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.60e7967f.js",
     "runtime-main.js.map": "/static/js/runtime-main.60e7967f.js.map",
     "static/js/2.077ea984.chunk.js": "/static/js/2.077ea984.chunk.js",
     "static/js/2.077ea984.chunk.js.map": "/static/js/2.077ea984.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.bebdc4a1d7718f6faee2930414a67aa6.js": "/precache-manifest.bebdc4a1d7718f6faee2930414a67aa6.js",
+    "precache-manifest.b9df8568dd7e972a0f5e5b6a69b579d8.js": "/precache-manifest.b9df8568dd7e972a0f5e5b6a69b579d8.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.177300c9.chunk.css.map": "/static/css/main.177300c9.chunk.css.map",
     "static/media/1_shoe-box.jpg": "/static/media/1_shoe-box.32f5bedf.jpg",
@@ -39,6 +39,6 @@
     "static/js/runtime-main.60e7967f.js",
     "static/js/2.077ea984.chunk.js",
     "static/css/main.177300c9.chunk.css",
-    "static/js/main.1fac9dd2.chunk.js"
+    "static/js/main.17d6a4c0.chunk.js"
   ]
 }
