@@ -7,6 +7,7 @@ const Demo = ({demo}) => (
       <div className="links">
           {!!demo.doi && <a href={demo.doi} target="_blank">DOI</a>}
           {!!demo.pdf && <a href={demo.pdf} target="_blank">PDF</a>}
+          {/* {!!demo.poster && <a href={demo.poster} target="_blank">POSTER</a>} */}
       </div>
     </div>
   </div>

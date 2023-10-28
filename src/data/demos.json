@@ -1,8 +1,9 @@
 [
   {
     "id": 3,
-    "text": "<b>Yunyi Zhu</b>, Cedric Honnet, Yixiao Kang, Junyi Zhu, Angelina J. Zheng, Kyle Heinz, Grace Tang, Luca Musk, Michael Wessely, Stefanie Mueller. Demonstration or ChromoCloth: Re-Programmable Multi-Color Textures through Flexible and Portable Light Source. Demo, ACM UIST 2023.",
-    "pdf": "https://yunyi-zhu.github.io/chromocloth-uist23.pdf"
+    "text": "<b>Yunyi Zhu</b>, Cedric Honnet, Yixiao Kang, Junyi Zhu, Angelina J. Zheng, Kyle Heinz, Grace Tang, Luca Musk, Michael Wessely, Stefanie Mueller. Demonstration of ChromoCloth: Re-Programmable Multi-Color Textures through Flexible and Portable Light Source. Demo, ACM UIST 2023.",
+    "pdf": "https://yunyi-zhu.github.io/chromocloth-uist23.pdf",
+    "doi": "https://dl.acm.org/doi/10.1145/3586182.3615811"
   },
   {
     "id": 4,
