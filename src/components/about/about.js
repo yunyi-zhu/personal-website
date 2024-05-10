@@ -16,7 +16,7 @@ const About = () => (
       </div>
 
       <div className="paragraph">
-      In my research, I develop new devices and systems that interact with programmable structures and materials. For example, I use <a href="https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.html" target="_blank">lenticular structure</a> and  <a href="https://yunyi-zhu.github.io/chromocloth-uist23.pdf" target="_blank">photochromic material</a> to achieveprogrammable surface textures on 3D objects. 
+      In my research, I develop new devices and systems that interact with programmable structures and materials. For example, I use <a href="https://hcie.csail.mit.edu/research/lenticularobject/lenticular-object.html" target="_blank">lenticular structure</a> and  <a href="https://yunyi-zhu.github.io/chromocloth-uist23.pdf" target="_blank">photochromic material</a> to achieve programmable surface textures on 3D objects. 
       </div>
 
 

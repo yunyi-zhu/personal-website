@@ -1,5 +1,10 @@
 [
   {
+    "id": 2,
+    "text": "<b>Yunyi Zhu</b>, Faraz Faruqi, Stefanie Mueller. Generative AI in Color-Changing Systems: Re-Programmable 3D Object Textures with Material and Design Constraints. Workshop Paper, ACM CHI 2024.",
+    "doi": "https://arxiv.org/abs/2404.17028"
+  },
+  {
     "id": 3,
     "text": "<b>Yunyi Zhu</b>, Cedric Honnet, Yixiao Kang, Junyi Zhu, Angelina J. Zheng, Kyle Heinz, Grace Tang, Luca Musk, Michael Wessely, Stefanie Mueller. Demonstration of ChromoCloth: Re-Programmable Multi-Color Textures through Flexible and Portable Light Source. Demo, ACM UIST 2023.",
     "pdf": "https://yunyi-zhu.github.io/chromocloth-uist23.pdf",
