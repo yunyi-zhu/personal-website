@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4f276466.css",
+    "main.js": "/static/js/main.28672619.js",
+    "static/media/lonestar.png": "/static/media/lonestar.69a99fddd1c28791034e.png",
+    "static/media/clevr.png": "/static/media/clevr.5481891d5396980030e2.png",
+    "static/media/enlightenment-vest.jpg": "/static/media/enlightenment-vest.9df5803f687e4cccd8b6.jpg",
+    "static/media/3dprint-textile.jpg": "/static/media/3dprint-textile.3e3b166e3aa915585e94.jpg",
+    "static/media/mosaic-stool.jpg": "/static/media/mosaic-stool.c6a8b3b2b07d7fe69923.jpg",
+    "static/media/enlightenment-vest-2.jpg": "/static/media/enlightenment-vest-2.83c96ff7d151b081945a.jpg",
+    "static/media/shape-grammar-origami.jpg": "/static/media/shape-grammar-origami.b3de8d7b13bd08113eea.jpg",
+    "static/media/bus-stop.png": "/static/media/bus-stop.752da42ce530ce9835e2.png",
+    "static/media/catology.png": "/static/media/catology.3c686484dab2c38c747a.png",
+    "static/media/shaper-sketch.png": "/static/media/shaper-sketch.3d05553b23e8cd785599.png",
+    "static/media/text-weather.png": "/static/media/text-weather.69e78909f0d46a8979ea.png",
+    "static/media/morphsensor-thumbnail.png": "/static/media/morphsensor-thumbnail.d32dac2b4b7121b5032c.png",
+    "static/media/curveboard-thumbnail.jpg": "/static/media/curveboard-thumbnail.e98c89ddb0f40df713a1.jpg",
+    "static/media/leiserchess.png": "/static/media/leiserchess.756d26f570e337d54929.png",
+    "static/media/dejavu.png": "/static/media/dejavu.293652cf7ed3030c65ad.png",
+    "static/media/infraredtags-thumbnail.png": "/static/media/infraredtags-thumbnail.7fbd39d3e02a692b82ab.png",
+    "static/media/profile2.jpeg": "/static/media/profile2.f573965d9496ef53f04b.jpeg",
+    "static/media/lenticular-thumbnail.jpeg": "/static/media/lenticular-thumbnail.8cbf78ab7cab7206b975.jpeg",
+    "static/media/github.svg": "/static/media/github.0ec844e470fd65f8f52f608c8aa97ddb.svg",
+    "static/media/linkedin.svg": "/static/media/linkedin.7defd339fd92d3e5fa034b24a5f10ed6.svg",
+    "static/media/googlescholar.svg": "/static/media/googlescholar.edcabbc918871ca78570b1c74ef97500.svg",
+    "index.html": "/index.html",
+    "main.4f276466.css.map": "/static/css/main.4f276466.css.map",
+    "main.28672619.js.map": "/static/js/main.28672619.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f276466.css",
+    "static/js/main.28672619.js"
+  ]
+}
