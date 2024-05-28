@@ -20,9 +20,14 @@ const Attendance = () =>
               <div className="item">ACM UIST</div>
               <div className="year">2024, 2023, 2022</div>
             </div>
+            
             <div className="info-line">
               <div className="item">ACM SCF</div>
               <div className="year">2023, 2022</div>
+            </div>
+            <div className="info-line">
+              <div className="item">ACM SIGGRAPH Poster</div>
+              <div className="year">2024, 2023</div>
             </div>
             <div className="info-line">
               <div className="item">ACM DIS</div>
