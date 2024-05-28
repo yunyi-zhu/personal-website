@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4f276466.css",
-    "main.js": "/static/js/main.940eb2c7.js",
+    "main.js": "/static/js/main.4c6dfb78.js",
     "static/media/lonestar.png": "/static/media/lonestar.69a99fddd1c28791034e.png",
     "static/media/clevr.png": "/static/media/clevr.5481891d5396980030e2.png",
     "static/media/enlightenment-vest.jpg": "/static/media/enlightenment-vest.9df5803f687e4cccd8b6.jpg",
@@ -25,10 +25,10 @@
     "static/media/googlescholar.svg": "/static/media/googlescholar.edcabbc918871ca78570b1c74ef97500.svg",
     "index.html": "/index.html",
     "main.4f276466.css.map": "/static/css/main.4f276466.css.map",
-    "main.940eb2c7.js.map": "/static/js/main.940eb2c7.js.map"
+    "main.4c6dfb78.js.map": "/static/js/main.4c6dfb78.js.map"
   },
   "entrypoints": [
     "static/css/main.4f276466.css",
-    "static/js/main.940eb2c7.js"
+    "static/js/main.4c6dfb78.js"
   ]
 }
