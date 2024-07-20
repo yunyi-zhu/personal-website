@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.4f276466.css",
-    "main.js": "/static/js/main.4c6dfb78.js",
+    "main.js": "/static/js/main.3f39b34c.js",
     "static/media/lonestar.png": "/static/media/lonestar.69a99fddd1c28791034e.png",
     "static/media/clevr.png": "/static/media/clevr.5481891d5396980030e2.png",
+    "static/media/2_shoe-rack.jpg": "/static/media/2_shoe-rack.461e689ba52bc33546f5.jpg",
     "static/media/enlightenment-vest.jpg": "/static/media/enlightenment-vest.9df5803f687e4cccd8b6.jpg",
     "static/media/3dprint-textile.jpg": "/static/media/3dprint-textile.3e3b166e3aa915585e94.jpg",
     "static/media/mosaic-stool.jpg": "/static/media/mosaic-stool.c6a8b3b2b07d7fe69923.jpg",
     "static/media/enlightenment-vest-2.jpg": "/static/media/enlightenment-vest-2.83c96ff7d151b081945a.jpg",
     "static/media/shape-grammar-origami.jpg": "/static/media/shape-grammar-origami.b3de8d7b13bd08113eea.jpg",
     "static/media/bus-stop.png": "/static/media/bus-stop.752da42ce530ce9835e2.png",
+    "static/media/1_shoe-box.jpg": "/static/media/1_shoe-box.bef591ba10795c9a80b8.jpg",
     "static/media/catology.png": "/static/media/catology.3c686484dab2c38c747a.png",
     "static/media/shaper-sketch.png": "/static/media/shaper-sketch.3d05553b23e8cd785599.png",
     "static/media/text-weather.png": "/static/media/text-weather.69e78909f0d46a8979ea.png",
@@ -20,15 +22,17 @@
     "static/media/infraredtags-thumbnail.png": "/static/media/infraredtags-thumbnail.7fbd39d3e02a692b82ab.png",
     "static/media/profile2.jpeg": "/static/media/profile2.f573965d9496ef53f04b.jpeg",
     "static/media/lenticular-thumbnail.jpeg": "/static/media/lenticular-thumbnail.8cbf78ab7cab7206b975.jpeg",
+    "static/media/2_shoe-rack.mdx": "/static/media/2_shoe-rack.444bd86b754580633a51.mdx",
+    "static/media/1_shoe-box.mdx": "/static/media/1_shoe-box.382b069c895d67f591b0.mdx",
     "static/media/github.svg": "/static/media/github.0ec844e470fd65f8f52f608c8aa97ddb.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.7defd339fd92d3e5fa034b24a5f10ed6.svg",
     "static/media/googlescholar.svg": "/static/media/googlescholar.edcabbc918871ca78570b1c74ef97500.svg",
     "index.html": "/index.html",
     "main.4f276466.css.map": "/static/css/main.4f276466.css.map",
-    "main.4c6dfb78.js.map": "/static/js/main.4c6dfb78.js.map"
+    "main.3f39b34c.js.map": "/static/js/main.3f39b34c.js.map"
   },
   "entrypoints": [
     "static/css/main.4f276466.css",
-    "static/js/main.4c6dfb78.js"
+    "static/js/main.3f39b34c.js"
   ]
 }
