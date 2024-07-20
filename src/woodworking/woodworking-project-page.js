@@ -6,13 +6,12 @@ import { Link } from 'react-router-dom';
 
 /* eslint-disable import/no-webpack-loader-syntax */
 import One_ShoeBox from '!babel-loader!@mdx-js/loader!./woodworking-pages/1_shoe-box.mdx';
-import Two_ShoeRack from '!babel-loader!@mdx-js/loader!./woodworking-pages/2_shoe-rack.mdx'
+import Two_ShoeRack from '!babel-loader!@mdx-js/loader!./woodworking-pages/2_shoe-rack.mdx';
 
 const links = {
   "1_shoe-box": <One_ShoeBox />,
   "2_shoe-rack": <Two_ShoeRack />
 }
-
 
 const Project = () => {
   const { id } = useParams();

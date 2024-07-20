@@ -1,5 +1,5 @@
 import React from 'react';
-import {BrowserRouter} from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 // import ReactDOM from 'react-dom';
 import { createRoot } from 'react-dom/client';
 import App from './App';
@@ -8,9 +8,9 @@ import * as serviceWorker from './serviceWorker';
 const domNode = document.getElementById('root');
 const root = createRoot(domNode);
 root.render( 
-<BrowserRouter basename={process.env.PUBLIC_URL}>
+<Router basename={process.env.PUBLIC_URL}>
 	<App />
-</BrowserRouter>
+</Router>
 );
 
 // If you want your app to work offline and load faster, you can change

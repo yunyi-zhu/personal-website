@@ -20,9 +20,9 @@ const Project = ({project}) => (
         {
           project.links.map((pair,i) => (
             <div key={i} className="button">
-              <Link to={pair.link} target="_blank">
+              <a href={"/woodworking/" + pair.link} target="_blank">
                 {pair.title}
-              </Link>
+              </a>
             </div>
           ))
         }
