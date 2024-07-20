@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4f276466.css",
-    "main.js": "/static/js/main.3f39b34c.js",
+    "main.js": "/static/js/main.1c4c43d3.js",
     "static/media/lonestar.png": "/static/media/lonestar.69a99fddd1c28791034e.png",
     "static/media/clevr.png": "/static/media/clevr.5481891d5396980030e2.png",
     "static/media/2_shoe-rack.jpg": "/static/media/2_shoe-rack.461e689ba52bc33546f5.jpg",
@@ -29,10 +29,10 @@
     "static/media/googlescholar.svg": "/static/media/googlescholar.edcabbc918871ca78570b1c74ef97500.svg",
     "index.html": "/index.html",
     "main.4f276466.css.map": "/static/css/main.4f276466.css.map",
-    "main.3f39b34c.js.map": "/static/js/main.3f39b34c.js.map"
+    "main.1c4c43d3.js.map": "/static/js/main.1c4c43d3.js.map"
   },
   "entrypoints": [
     "static/css/main.4f276466.css",
-    "static/js/main.3f39b34c.js"
+    "static/js/main.1c4c43d3.js"
   ]
 }
