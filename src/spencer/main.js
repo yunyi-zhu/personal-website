@@ -1,8 +1,9 @@
 import React from 'react'
+import PigeonClick from './pigeonclick';
 
 const SpencerPage = () => (
  <div>
-    Heyyy
+    <PigeonClick />
  </div>
 );
 
