@@ -1,11 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.4f276466.css",
-    "main.js": "/static/js/main.c8318ff6.js",
+    "main.js": "/static/js/main.aa0625b9.js",
     "static/media/lonestar.png": "/static/media/lonestar.69a99fddd1c28791034e.png",
     "static/media/clevr.png": "/static/media/clevr.5481891d5396980030e2.png",
     "static/media/2_shoe-rack.jpg": "/static/media/2_shoe-rack.461e689ba52bc33546f5.jpg",
     "static/media/enlightenment-vest.jpg": "/static/media/enlightenment-vest.9df5803f687e4cccd8b6.jpg",
+    "static/media/pigeon.png": "/static/media/pigeon.153c28bbb3ab3c08ec5f.png",
     "static/media/3dprint-textile.jpg": "/static/media/3dprint-textile.3e3b166e3aa915585e94.jpg",
     "static/media/mosaic-stool.jpg": "/static/media/mosaic-stool.c6a8b3b2b07d7fe69923.jpg",
     "static/media/enlightenment-vest-2.jpg": "/static/media/enlightenment-vest-2.83c96ff7d151b081945a.jpg",
@@ -27,10 +28,10 @@
     "static/media/googlescholar.svg": "/static/media/googlescholar.edcabbc918871ca78570b1c74ef97500.svg",
     "index.html": "/index.html",
     "main.4f276466.css.map": "/static/css/main.4f276466.css.map",
-    "main.c8318ff6.js.map": "/static/js/main.c8318ff6.js.map"
+    "main.aa0625b9.js.map": "/static/js/main.aa0625b9.js.map"
   },
   "entrypoints": [
     "static/css/main.4f276466.css",
-    "static/js/main.c8318ff6.js"
+    "static/js/main.aa0625b9.js"
   ]
 }
