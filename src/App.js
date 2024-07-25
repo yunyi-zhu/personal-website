@@ -13,7 +13,7 @@ const App = () => {
       <Route path="/" element={<MainPage />} />
       <Route path="/woodworking" element={<WoodworkingMainPage />} />
       <Route path="/woodworking/about" element={<WoodworkingAboutPage />} />
-      <Route path="/woodworking/project" element={<WoodworkingProjectPage />} />
+      <Route path="/woodworking/project/:id" element={<WoodworkingProjectPage />} />
 
     </Routes>
 

@@ -4,13 +4,12 @@ import Footer from './woodworking-footer';
 import { useParams } from 'react-router-dom'
 import { Link } from 'react-router-dom';
 
-/* eslint-disable import/no-webpack-loader-syntax */
-import One_ShoeBox from '!babel-loader!@mdx-js/loader!./woodworking-pages/1_shoe-box.mdx';
-import Two_ShoeRack from '!babel-loader!@mdx-js/loader!./woodworking-pages/2_shoe-rack.mdx';
+import OneShoeBox from './woodworking-pages/1_shoe-box.mdx';
+import TwoShoeRack from './woodworking-pages/2_shoe-rack.mdx';
 
 const links = {
-  "1_shoe-box": <One_ShoeBox />,
-  "2_shoe-rack": <Two_ShoeRack />
+  "1_shoe-box": <OneShoeBox />,
+  "2_shoe-rack": <TwoShoeRack />
 }
 
 const Project = () => {
