@@ -7,10 +7,10 @@ import * as serviceWorker from './serviceWorker';
 
 const domNode = document.getElementById('root');
 const root = createRoot(domNode);
-root.render( 
-<Router basename={process.env.PUBLIC_URL}>
-	<App />
-</Router>
+root.render(
+	<Router basename={process.env.PUBLIC_URL}>
+		<App />
+	</Router>
 );
 
 // If you want your app to work offline and load faster, you can change

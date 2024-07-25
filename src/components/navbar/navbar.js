@@ -20,7 +20,7 @@ const Navbar = ( {page="index"} ) => {
           <ScrollLink to="awards"  smooth={true} offset={-70} duration={200} >Awards</ScrollLink>
           <ScrollLink to="teaching"  smooth={true} offset={-70} duration={200} >Teaching</ScrollLink>
           {/*<Link to="/projects">Projects</Link>*/}
-          <Link to="yunyizhu-cv.pdf" target="_blank">CV</Link>
+          <a href={`${process.env.PUBLIC_URL}/yunyizhu-cv.pdf`} target="_blank">CV</a>
         </div>
       </div>
       <div className="info">
