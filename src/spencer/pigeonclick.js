@@ -15,31 +15,35 @@ const Images = [
     // GrassImage1,
     // GrassImage2,
     // SpiderLily
-  ];
-
+];
 
 const PigeonClick = () => {
   const [pigeons, setPigeons] = useState([]);
+  let eventProcessed = false;
 
   const handleClick = (e) => {
+    if (eventProcessed) return;
+    eventProcessed = true;
+
     // Get the click or touch coordinates
     const x = e.clientX || e.touches[0].clientX;
     const y = e.clientY || e.touches[0].clientY;
 
-    // Add a new pigeon with a unique key
-    const randomPigeon = Images[Math.floor(Math.random() * Images.length)];
+    // Select a random image
+    const randomImage = Images[Math.floor(Math.random() * Images.length)];
 
     // Add a new pigeon with a unique key and random image
     setPigeons((prevPigeons) => [
       ...prevPigeons,
-      { id: Date.now(), x, y, image: randomPigeon }
+      { id: Date.now(), x, y, image: randomImage }
     ]);
 
-    // Remove the pigeon after 3 seconds
+    // Remove the pigeon after 3 seconds and reset eventProcessed flag
     setTimeout(() => {
       setPigeons((prevPigeons) =>
         prevPigeons.filter((pigeon) => pigeon.id !== Date.now())
       );
+      eventProcessed = false;
     }, 3000);
   };
 
@@ -56,8 +60,8 @@ const PigeonClick = () => {
           alt="Pigeon"
           style={{
             position: 'absolute',
-            left: pigeon.x - 25 + 'px',
-            top: pigeon.y - 25 + 'px', 
+            left: pigeon.x - 37.5 + 'px', // Center the image
+            top: pigeon.y - 37.5 + 'px',  // Center the image
             width: '75px',
             height: '75px',
             pointerEvents: 'none',
