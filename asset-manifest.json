@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.4f276466.css",
-    "main.js": "/static/js/main.128f43ce.js",
+    "main.css": "/static/css/main.ed524d09.css",
+    "main.js": "/static/js/main.a27148c1.js",
     "static/media/lonestar.png": "/static/media/lonestar.69a99fddd1c28791034e.png",
+    "static/media/seal-sleeping.jpg": "/static/media/seal-sleeping.66599836ae8d859d4ec2.jpg",
     "static/media/grass1.png": "/static/media/grass1.086ef0d0b10ee0d34952.png",
     "static/media/clevr.png": "/static/media/clevr.5481891d5396980030e2.png",
     "static/media/2_shoe-rack.jpg": "/static/media/2_shoe-rack.461e689ba52bc33546f5.jpg",
@@ -29,15 +30,16 @@
     "static/media/profile2.jpeg": "/static/media/profile2.f573965d9496ef53f04b.jpeg",
     "static/media/grass2.png": "/static/media/grass2.5dd3b6c1e6c51f30fd72.png",
     "static/media/lenticular-thumbnail.jpeg": "/static/media/lenticular-thumbnail.8cbf78ab7cab7206b975.jpeg",
+    "static/media/seal-up.jpg": "/static/media/seal-up.38a75a033b7eca92d510.jpg",
     "static/media/github.svg": "/static/media/github.0ec844e470fd65f8f52f608c8aa97ddb.svg",
     "static/media/linkedin.svg": "/static/media/linkedin.7defd339fd92d3e5fa034b24a5f10ed6.svg",
     "static/media/googlescholar.svg": "/static/media/googlescholar.edcabbc918871ca78570b1c74ef97500.svg",
     "index.html": "/index.html",
-    "main.4f276466.css.map": "/static/css/main.4f276466.css.map",
-    "main.128f43ce.js.map": "/static/js/main.128f43ce.js.map"
+    "main.ed524d09.css.map": "/static/css/main.ed524d09.css.map",
+    "main.a27148c1.js.map": "/static/js/main.a27148c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.4f276466.css",
-    "static/js/main.128f43ce.js"
+    "static/css/main.ed524d09.css",
+    "static/js/main.a27148c1.js"
   ]
 }
