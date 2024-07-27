@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.ed524d09.css",
-    "main.js": "/static/js/main.a27148c1.js",
+    "main.css": "/static/css/main.4d104964.css",
+    "main.js": "/static/js/main.9c94ba5d.js",
     "static/media/lonestar.png": "/static/media/lonestar.69a99fddd1c28791034e.png",
     "static/media/seal-sleeping.jpg": "/static/media/seal-sleeping.66599836ae8d859d4ec2.jpg",
     "static/media/grass1.png": "/static/media/grass1.086ef0d0b10ee0d34952.png",
@@ -27,6 +27,7 @@
     "static/media/leiserchess.png": "/static/media/leiserchess.756d26f570e337d54929.png",
     "static/media/dejavu.png": "/static/media/dejavu.293652cf7ed3030c65ad.png",
     "static/media/infraredtags-thumbnail.png": "/static/media/infraredtags-thumbnail.7fbd39d3e02a692b82ab.png",
+    "static/media/cat.png": "/static/media/cat.24596aaf758c46980f25.png",
     "static/media/profile2.jpeg": "/static/media/profile2.f573965d9496ef53f04b.jpeg",
     "static/media/grass2.png": "/static/media/grass2.5dd3b6c1e6c51f30fd72.png",
     "static/media/lenticular-thumbnail.jpeg": "/static/media/lenticular-thumbnail.8cbf78ab7cab7206b975.jpeg",
@@ -35,11 +36,11 @@
     "static/media/linkedin.svg": "/static/media/linkedin.7defd339fd92d3e5fa034b24a5f10ed6.svg",
     "static/media/googlescholar.svg": "/static/media/googlescholar.edcabbc918871ca78570b1c74ef97500.svg",
     "index.html": "/index.html",
-    "main.ed524d09.css.map": "/static/css/main.ed524d09.css.map",
-    "main.a27148c1.js.map": "/static/js/main.a27148c1.js.map"
+    "main.4d104964.css.map": "/static/css/main.4d104964.css.map",
+    "main.9c94ba5d.js.map": "/static/js/main.9c94ba5d.js.map"
   },
   "entrypoints": [
-    "static/css/main.ed524d09.css",
-    "static/js/main.a27148c1.js"
+    "static/css/main.4d104964.css",
+    "static/js/main.9c94ba5d.js"
   ]
 }
