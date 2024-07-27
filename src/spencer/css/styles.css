@@ -10,6 +10,8 @@
   transition: background-color 0.3s, border 0.3s, color 0.3s; /* Original transitions */
   max-width: 600px; /* Width limit for desktop */
   box-sizing: border-box; /* Include padding and border in width calculation */
+  position: relative; /* Relative position to contain absolute positioned elements */
+  overflow: hidden; /* Prevent overflow */
 }
 
 .hibernation-page.resting {
@@ -66,9 +68,17 @@
   border-color: #0981eb; /* Steel blue border on hover when resting */
 }
 
-/* Add media query for larger screens */
-@media (min-width: 600px) {
-  .hibernation-page {
-    width: 80%; /* Set width to 80% of the screen on larger devices */
-  }
+.cat {
+  position: absolute;
+  width: 50px; /* Larger cat size */
+  height: 50px;
+  background-image: url('../sprites/cat.png'); /* Use your pixelated cat image */
+  background-size: cover;
+  pointer-events: none; /* Prevent cats from blocking clicks */
+  animation: fade-out 2s forwards; /* Fade out animation */
+}
+
+@keyframes fade-out {
+  0% { opacity: 1; }
+  100% { opacity: 0; transform: translateY(-20px); } /* Move up as it fades */
 }
