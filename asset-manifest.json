@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4d104964.css",
-    "main.js": "/static/js/main.9c94ba5d.js",
+    "main.js": "/static/js/main.be737a2e.js",
     "static/media/lonestar.png": "/static/media/lonestar.69a99fddd1c28791034e.png",
     "static/media/seal-sleeping.jpg": "/static/media/seal-sleeping.66599836ae8d859d4ec2.jpg",
     "static/media/grass1.png": "/static/media/grass1.086ef0d0b10ee0d34952.png",
@@ -25,6 +25,7 @@
     "static/media/morphsensor-thumbnail.png": "/static/media/morphsensor-thumbnail.d32dac2b4b7121b5032c.png",
     "static/media/curveboard-thumbnail.jpg": "/static/media/curveboard-thumbnail.e98c89ddb0f40df713a1.jpg",
     "static/media/leiserchess.png": "/static/media/leiserchess.756d26f570e337d54929.png",
+    "static/media/portachrome.png": "/static/media/portachrome.b7c4b34cec7da0cbeafe.png",
     "static/media/dejavu.png": "/static/media/dejavu.293652cf7ed3030c65ad.png",
     "static/media/infraredtags-thumbnail.png": "/static/media/infraredtags-thumbnail.7fbd39d3e02a692b82ab.png",
     "static/media/cat.png": "/static/media/cat.24596aaf758c46980f25.png",
@@ -37,10 +38,10 @@
     "static/media/googlescholar.svg": "/static/media/googlescholar.edcabbc918871ca78570b1c74ef97500.svg",
     "index.html": "/index.html",
     "main.4d104964.css.map": "/static/css/main.4d104964.css.map",
-    "main.9c94ba5d.js.map": "/static/js/main.9c94ba5d.js.map"
+    "main.be737a2e.js.map": "/static/js/main.be737a2e.js.map"
   },
   "entrypoints": [
     "static/css/main.4d104964.css",
-    "static/js/main.9c94ba5d.js"
+    "static/js/main.be737a2e.js"
   ]
 }
