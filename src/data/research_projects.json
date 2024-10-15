@@ -1,5 +1,15 @@
 [
   {
+    "id": 5,
+    "title": "PortaChrome: A Portable Contact Light Source for Integrated Re-Programmable Multi-Color Textures",
+    "authors": "<b>Yunyi Zhu</b>, Cedric Honnet, Yixiao Kang, Junyi Zhu, Angelina J. Zheng, Kyle Heinz, Grace Tang, Luca Musk, Michael Wessely, Stefanie Mueller.",
+    "conference": "Proceedings of UIST 2024.",
+    "thumbnail": "portachrome.png",
+    "doi": "https://dl.acm.org/doi/10.1145/3654777.3676458",
+    "projectPage": "https://hcie.csail.mit.edu/research/portachrome/portachrome.html",
+    "description": "PortaChrome is a portable and flexible light source compatible with photochromic material. When PortaChrome makes contact with objects previously coated with photochromic dye, the UV and RGB LEDs inside PortaChrome create multicolor textures on the objects. PortaChrome can be attached onto everyday objects to integrate the color-changing process into everyday user interation."
+  },
+  {
     "id": 4,
     "title": "InfraredTags: Embedding Invisible AR Markers and Barcodes Using Low-Cost, Infrared-Based 3D Printing and Imaging Tools.",
     "authors": "Mustafa Doga Dogan, Ahmad Taka, Michael Lu, <b>Yunyi Zhu</b>, Akshat Kumar, Aakar Gupta, Stefanie Mueller.",
